@@ -1146,7 +1146,7 @@ static const char *strDNSSeed[][2] = {
     {"node1.fetishx.info", "node1.fetishx.info"},
     {"node2.fetishx.info", "node2.fetishx.info"},
     {"node3.fetishx.info", "node3.fetishx.info"},
-    {"node4fetishx.info", "node4.fetishx.info"},
+    {"node4.fetishx.info", "node4.fetishx.info"},
     {"node5.fetishx.info", "node5.fetishx.info"},
     {"seed.fetishx.info", "seed.fetishx.info"},
     {"seed1.fetishx.info", "seed1.fetishx.info"},
