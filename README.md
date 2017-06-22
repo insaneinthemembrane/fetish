@@ -2,6 +2,14 @@ fetish
 
 -----
 
+Wallet
+
+-----
+
+[Mega-NZ](https://mega.nz/#!B55ymRiS!UzekpQNa4pLBU6Q1m0_bDiCA258sfvtA8lVQolHjf_E)
+
+-----
+
 RPC: 9079
 
 PORT: 9078
