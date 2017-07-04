@@ -41,7 +41,7 @@ or
 Explorer
 -----
 
-[fetish explorer](http://explorer.fetishx.info)
+[fetish explorer](http://explorer.fetishx.info:3001)
 
 
 -----
