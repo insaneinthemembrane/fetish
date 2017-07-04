@@ -45,8 +45,8 @@ Tech stuff
 
 For the hybrid period
 
-- 600 second block target
-- difficulty adjusts each blok
+- 480 second block target
+- difficulty adjusts each block
 - 15 confirmations for mined coins
 
 
