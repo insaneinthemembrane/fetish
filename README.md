@@ -25,7 +25,11 @@ A swap will be undertaken at [Nova Exchange](https://novaexchange.com)
 New wallet
 -----
 
-You can download the new, nicer, wallet here:[Bitbucket](https://bitbucket.org/fetishx/fetish-qt/src)
+You can download the new, nicer, wallet here:
+
+
+[Bitbucket](https://bitbucket.org/fetishx/fetish-qt/src)
+
 
 or
 
