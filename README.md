@@ -95,16 +95,16 @@ BDSM-FETISH: "Destroyed and lost coin stats"
 
 Mining and coin count
 -----
-> 400,000 for swap
+> 400,000 for swap (plus the surplus of 3,000 test mined and staked)
 > 
 Then, hopefully to breath life into fetish:
 
 
->- 14,000 hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 300,000 if it is mined. NB: I have test mined some, and test staked, so will add the figure onto the 400,000 FETSH.
+>- 12,000 remaining hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 200,000 if it is mined. NB: I have test mined some, and test staked, so have added the figure onto the 400,000 FETSH.
 >
 Coins
 
->- Total coin count after the hybrid period is finished will be anything from 400,000 to 700,000, ensuring fetish is rare. As a mean average, I predict about 550,000.
+>- Total coin count after the hybrid period is finished will be anything from 400,000 to 600,000, ensuring fetish is rare. As a mean average, I predict about 500,000.
 
 ----
 
