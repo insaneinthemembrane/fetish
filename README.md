@@ -31,10 +31,7 @@ You can download the new, nicer, wallet here:
 [Bitbucket](https://bitbucket.org/fetishx/fetish-qt/downloads/)
 
 
-or
 
-
-[Mega-NZ](https://mega.nz/#!B55ymRiS!UzekpQNa4pLBU6Q1m0_bDiCA258sfvtA8lVQolHjf_E)
 
 -----
 
