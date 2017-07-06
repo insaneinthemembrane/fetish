@@ -49,7 +49,7 @@ New wallet
 You can download the new, nicer, wallet here:
 
 
-[Bitbucket](https://bitbucket.org/fetishx/fetish-qt/downloads/)
+[Github](https://github.com/bdsmc/fetish-qt/raw/master/fetish-qt-release.zip)
 
 
 
