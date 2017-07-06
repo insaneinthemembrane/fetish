@@ -1,9 +1,7 @@
 fetish
 ===================
 
-[TOC]
 
-----
 
 
 BDSM-FETISH swap to "fetish"
