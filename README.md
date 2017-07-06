@@ -129,7 +129,7 @@ Mining and coin count
 Then, hopefully to breath life into fetish:
 
 
->- 12,500 remaining hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 150,000 if it is mined. 
+>- 12,500 remaining hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 100,000 if it is mined. 
 
 >- NB: As noted above, I have test mined some, and test staked, so have added those coins onto the 400,000 FETSH for swap.
 >
