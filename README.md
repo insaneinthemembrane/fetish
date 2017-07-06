@@ -64,6 +64,12 @@ Explorer
 [fetish explorer](http://explorer.fetishx.info:3001)
 
 
+plus the old:
+
+
+[BDSM-FETISH explorer](http://explorer.bdsm-fetish.net:3001)
+
+
 -----
 
 Tech stuff
