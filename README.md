@@ -136,7 +136,7 @@ Then, hopefully to breath life into fetish:
 
 Coins
 
->- Total coin count after the hybrid period is finished will be in the probably be in the region of 500,000. That is, 400,000 from the premine/swap, and 100,000 POW and POS mined blocks.
+>- Total coin count after the hybrid period is finished will probably be in the region of 500,000. That is, 400,000 from the premine/swap, and 100,000 POW and POS mined blocks.
 
 ----
 
