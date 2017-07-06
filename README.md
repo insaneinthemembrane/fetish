@@ -13,6 +13,19 @@ BDSM-FETISH swap to "fetish"
 
 ----
 
+Coins Minted for swap
+-----
+
+**400,000**
+
+In other words, there will be 400,000 fetish, available to exchange BDSM-FETISH for.
+
+The rate is 1 = 1
+
+(actual start is 403,000 which includes 3,000 test mined coins and staked coins, which have been thrown into the swap pot)
+
+-----
+
 Nova Exchange
 -----
 
@@ -20,6 +33,16 @@ A swap will be undertaken at [Nova Exchange](https://novaexchange.com)
 
 
 -----
+
+Hybrid period
+-----
+
+There are circa 12,500 blocks that can be mined, POW. Last block is at height 14,000. 
+
+The reward is 35 coins a block.
+
+-----
+
 
 
 New wallet
@@ -55,17 +78,20 @@ Tech stuff
 - Minimum staking: 12 hours
 - Maximum staking: 14 days
 
-For the hybrid period
+-----
 
-- 480 second block target
+For the hybrid period
+-----
+
+- 480 second block targets
 - difficulty adjusts each block
 - 15 confirmations for mined coins
-
+- 35 coins reward
 
 
 -----
 
-Swap figures
+Swap figures (reiterated)
 -----
 
 > 400,000 premined for giveaway
@@ -97,11 +123,14 @@ Mining and coin count
 Then, hopefully to breath life into fetish:
 
 
->- 12,000 remaining hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 200,000 if it is mined. NB: I have test mined some, and test staked, so have added the figure onto the 400,000 FETSH.
+>- 12,500 remaining hybrid blocks @ 35 coins per block, which realistically, with both POW and POS mining blocks during the hybrid period, would add at most 150,000 if it is mined. 
+
+>- NB: As noted above, I have test mined some, and test staked, so have added those coins onto the 400,000 FETSH for swap.
 >
+
 Coins
 
->- Total coin count after the hybrid period is finished will be anything from 400,000 to 600,000, ensuring fetish is rare. As a mean average, I predict about 500,000.
+>- Total coin count after the hybrid period is finished will be in the probably be in the region of 500,000. That is, 400,000 from the premine/swap, and 100,000 POW and POS mined blocks.
 
 ----
 
