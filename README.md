@@ -53,7 +53,7 @@ New wallet
 You can download the new, nicer, wallet here:
 
 
-[Github](https://github.com/bdsmc/fetish-qt/raw/master/fetish-qt-release.zip)
+[Github](https://github.com/bdsmc/fetish-qt)
 
 
 
