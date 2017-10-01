@@ -1142,15 +1142,15 @@ static const char *strDNSSeed[][2] = {
     {"178.62.254.91", "178.62.254.91"},
     {"188.166.200.98", "188.166.200.98"},
     {"83.93.111.63", "83.93.111.63"},
-    {"node.fetishx.info", "node.fetishx.info"},
-    {"node1.fetishx.info", "node1.fetishx.info"},
-    {"node2.fetishx.info", "node2.fetishx.info"},
-    {"node3.fetishx.info", "node3.fetishx.info"},
-    {"node4.fetishx.info", "node4.fetishx.info"},
-    {"node5.fetishx.info", "node5.fetishx.info"},
-    {"seed.fetishx.info", "seed.fetishx.info"},
-    {"seed1.fetishx.info", "seed1.fetishx.info"},
-    {"seed2.fetishx.info", "seed2.fetishx.info"}
+    {"198.46.156.9", "198.46.156.9"},
+    {"198.46.156.14", "198.46.156.14"},
+    {"198.46.156.21", "198.46.156.21"},
+    {"192.227.143.48", "192.227.143.48"},
+    {"45.76.191.103", "45.76.191.103"},
+    {"128.199.123.223", "128.199.123.223"},
+    {"139.59.223.146", "139.59.223.146"},
+    {"45.77.91.230", "45.77.91.230"},
+    {"52.33.12.95", "52.33.12.95"}
 };
 
 void ThreadDNSAddressSeed(void* parg)
