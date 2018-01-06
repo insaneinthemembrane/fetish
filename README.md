@@ -43,6 +43,9 @@ Nova Exchange BTC - FETSH
 [Nova Exchange](https://novaexchange.com/market/BTC_FETSH/)
 
 
+But, Nova is closing!
+
+
 -----
 
 
@@ -63,7 +66,7 @@ You can download the new, nicer, wallet here:
 Explorer
 -----
 
-[fetish explorer](http://explorer.fetishx.info:3001)
+[fetish explorer](http://45.76.191.103:3001/)
 
 
 
