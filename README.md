@@ -102,13 +102,6 @@ Changes from BDSM-FETISH
 
 -----
 
-Logo
------
-
-The old fetish logo is back!
-
-
-![fetish logo](https://cdn.pbrd.co/images/2Btfq8HE.png)
 
 
 Wallet
