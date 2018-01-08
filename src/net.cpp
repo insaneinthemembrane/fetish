@@ -1154,6 +1154,17 @@ static const char *strDNSSeed[][2] = {
     {"node6.0-5.info", "node6.0-5.info"},
     {"node7.0-5.info", "node7.0-5.info"},
     {"node8.0-5.info", "node8.0-5.info"},
+    {"node9.0-5.info", "node9.0-5.info"},
+    {"node10.0-5.info", "node10.0-5.info"},
+    {"node11.0-5.info", "node11.0-5.info"},
+    {"node12.0-5.info", "node12.0-5.info"},
+    {"dns.0-5.info", "dns.0-5.info"},
+    {"dns1.0-5.info", "dns1.0-5.info"},
+    {"dns2.0-5.info", "dns2.0-5.info"},
+    {"dns3.0-5.info", "dns3.0-5.info"},
+    {"dns4.0-5.info", "dns4.0-5.info"},
+    {"dns5.0-5.info", "dns5.0-5.info"},
+    {"dns6.0-5.info", "dns6.0-5.info"},
     {"52.33.12.95", "52.33.12.95"}
 };
 
